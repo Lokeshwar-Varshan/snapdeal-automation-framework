@@ -1,0 +1,1961 @@
+2026-03-21 15:08:23 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 15:08:23 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 15:08:23 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 15:08:29 INFO  tests.TestCheck - Test started
+2026-03-21 15:08:30 INFO  tests.TestCheck - Search completed
+2026-03-21 15:08:30 INFO  tests.TestCheck - Search results loaded
+2026-03-21 15:08:30 INFO  tests.TestCheck - Search results validated
+2026-03-21 15:08:30 INFO  tests.TestCheck - Product clicked
+2026-03-21 15:10:51 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 15:10:52 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 15:10:52 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 15:10:57 INFO  tests.TestCheck - Test started
+2026-03-21 15:11:00 INFO  tests.TestCheck - Search completed
+2026-03-21 15:11:00 INFO  tests.TestCheck - Search results loaded
+2026-03-21 15:11:00 INFO  tests.TestCheck - Search results validated
+2026-03-21 15:11:00 INFO  tests.TestCheck - Product clicked
+2026-03-21 15:13:02 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 15:13:02 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 15:13:02 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 15:13:08 INFO  tests.TestCheck - Starting test execution
+2026-03-21 15:13:30 INFO  tests.TestCheck - Search completed
+2026-03-21 15:13:30 INFO  tests.TestCheck - Search results loaded
+2026-03-21 15:13:30 INFO  tests.TestCheck - Search results validated
+2026-03-21 15:13:30 INFO  tests.TestCheck - Product clicked
+2026-03-21 15:15:09 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 15:15:09 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 15:15:09 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 15:15:15 INFO  tests.TestCheck - Test started
+2026-03-21 15:15:17 INFO  tests.TestCheck - Search completed
+2026-03-21 15:15:17 INFO  tests.TestCheck - Search results loaded
+2026-03-21 15:15:17 INFO  tests.TestCheck - Search results validated
+2026-03-21 15:15:17 INFO  tests.TestCheck - Product clicked
+2026-03-21 15:25:07 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 15:25:08 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 15:25:08 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 15:25:13 INFO  tests.TestCheck - Test started
+2026-03-21 15:25:15 INFO  tests.TestCheck - Search completed
+2026-03-21 15:25:15 INFO  tests.TestCheck - Search results loaded
+2026-03-21 15:25:15 INFO  tests.TestCheck - Search results validated
+2026-03-21 15:25:15 INFO  tests.TestCheck - Product clicked
+2026-03-21 15:48:26 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 15:48:27 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 15:48:27 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 15:48:32 INFO  tests.TestCheck - Test started
+2026-03-21 15:48:55 INFO  tests.TestCheck - Search completed
+2026-03-21 15:48:55 INFO  tests.TestCheck - Search results loaded
+2026-03-21 15:48:55 INFO  tests.TestCheck - Search results validated
+2026-03-21 15:48:55 INFO  tests.TestCheck - Product clicked
+2026-03-21 15:50:31 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 15:50:31 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 15:50:31 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 15:50:36 INFO  tests.TestCheck - Test started
+2026-03-21 15:50:37 INFO  tests.TestCheck - Search completed
+2026-03-21 15:50:37 INFO  tests.TestCheck - Search results loaded
+2026-03-21 15:50:37 INFO  tests.TestCheck - Search results validated
+2026-03-21 15:50:38 INFO  tests.TestCheck - Product clicked
+2026-03-21 15:54:03 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 15:54:03 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 15:54:03 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 15:54:08 INFO  tests.TestCheck - Test started
+2026-03-21 15:54:10 INFO  tests.TestCheck - Search completed
+2026-03-21 15:54:10 INFO  tests.TestCheck - Search results loaded
+2026-03-21 15:54:10 INFO  tests.TestCheck - Search results validated
+2026-03-21 15:54:10 INFO  tests.TestCheck - Product clicked
+2026-03-21 15:59:08 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 15:59:08 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 15:59:08 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 15:59:13 INFO  tests.TestCheck - Test started
+2026-03-21 15:59:15 INFO  tests.TestCheck - Search completed
+2026-03-21 15:59:15 INFO  tests.TestCheck - Search results loaded
+2026-03-21 15:59:15 INFO  tests.TestCheck - Search results validated
+2026-03-21 15:59:15 INFO  tests.TestCheck - Product clicked
+2026-03-21 16:01:58 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 16:01:58 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 16:01:58 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 16:02:04 INFO  tests.TestCheck - Test started
+2026-03-21 16:02:05 INFO  tests.TestCheck - Search completed
+2026-03-21 16:02:05 INFO  tests.TestCheck - Search results loaded
+2026-03-21 16:02:05 INFO  tests.TestCheck - Search results validated
+2026-03-21 16:02:06 INFO  tests.TestCheck - Product clicked
+2026-03-21 16:03:28 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 16:03:29 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 16:03:29 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 16:03:34 INFO  tests.TestCheck - Test started
+2026-03-21 16:03:57 INFO  tests.TestCheck - Search completed
+2026-03-21 16:03:57 INFO  tests.TestCheck - Search results loaded
+2026-03-21 16:03:57 INFO  tests.TestCheck - Search results validated
+2026-03-21 16:03:57 INFO  tests.TestCheck - Product clicked
+2026-03-21 16:09:20 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 16:09:21 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 16:09:21 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 16:09:26 INFO  tests.TestCheck - Test started
+2026-03-21 16:09:28 INFO  tests.TestCheck - Search completed
+2026-03-21 16:09:28 INFO  tests.TestCheck - Search results loaded
+2026-03-21 16:09:28 INFO  tests.TestCheck - Search results validated
+2026-03-21 16:09:28 INFO  tests.TestCheck - Product clicked
+2026-03-21 18:01:47 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 18:01:48 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 18:01:48 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 18:01:54 INFO  tests.TestCheck - Test started
+2026-03-21 18:01:56 INFO  tests.TestCheck - Search completed
+2026-03-21 18:01:56 INFO  tests.TestCheck - Search results loaded
+2026-03-21 18:01:56 INFO  tests.TestCheck - Search results validated
+2026-03-21 18:01:56 INFO  tests.TestCheck - Product clicked
+2026-03-21 18:08:27 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 18:08:28 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 18:08:28 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 18:17:47 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 18:17:47 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 18:17:47 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 18:35:04 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 18:35:04 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 18:35:04 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 18:35:12 INFO  tests.TestCheck - Test started
+2026-03-21 18:35:15 INFO  tests.TestCheck - Search completed
+2026-03-21 18:35:15 INFO  tests.TestCheck - Search results loaded
+2026-03-21 18:35:16 INFO  tests.TestCheck - Search results validated
+2026-03-21 18:35:16 INFO  tests.TestCheck - Product clicked
+2026-03-21 18:35:18 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/baxparrow-grey-laptop-sleeves/619075520841#bcrumbSearch:laptop
+2026-03-21 18:35:18 INFO  tests.TestCheck - Product page validated
+2026-03-21 18:35:22 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 18:37:07 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 18:37:07 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 18:37:07 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 18:37:13 INFO  tests.TestCheck - Test started
+2026-03-21 18:37:16 INFO  tests.TestCheck - Search completed
+2026-03-21 18:37:16 INFO  tests.TestCheck - Search results loaded
+2026-03-21 18:37:16 INFO  tests.TestCheck - Search results validated
+2026-03-21 18:37:16 INFO  tests.TestCheck - Product clicked
+2026-03-21 18:37:17 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/baxparrow-grey-laptop-sleeves/619075520841#bcrumbSearch:laptop
+2026-03-21 18:37:17 INFO  tests.TestCheck - Product page validated
+2026-03-21 18:37:19 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 18:53:25 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 18:53:26 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 18:53:26 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 18:53:31 INFO  tests.TestCheck - Test started
+2026-03-21 18:53:33 INFO  tests.TestCheck - Search completed
+2026-03-21 18:53:33 INFO  tests.TestCheck - Search results loaded
+2026-03-21 18:53:33 INFO  tests.TestCheck - Search results validated
+2026-03-21 18:53:34 INFO  tests.TestCheck - Product clicked
+2026-03-21 18:53:35 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/baxparrow-grey-laptop-sleeves/619075520841#bcrumbSearch:laptop
+2026-03-21 18:53:35 INFO  tests.TestCheck - Product page validated
+2026-03-21 18:53:37 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 18:57:10 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 18:57:10 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 18:57:10 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 18:57:16 INFO  tests.TestCheck - Test started
+2026-03-21 18:57:19 INFO  tests.TestCheck - Search completed
+2026-03-21 18:57:19 INFO  tests.TestCheck - Search results loaded
+2026-03-21 18:57:19 INFO  tests.TestCheck - Search results validated
+2026-03-21 18:57:19 INFO  tests.TestCheck - Product clicked
+2026-03-21 18:57:20 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/generic-31-ltrs-brown-laptop/661026398301#bcrumbSearch:laptop%20bags
+2026-03-21 18:57:20 INFO  tests.TestCheck - Product page validated
+2026-03-21 18:57:22 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 19:17:35 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 19:17:36 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 19:17:36 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 19:17:39 INFO  tests.TestCheck - Test started
+2026-03-21 19:17:41 INFO  tests.TestCheck - Search completed
+2026-03-21 19:17:41 INFO  tests.TestCheck - Search results loaded
+2026-03-21 19:17:41 INFO  tests.TestCheck - Search results validated
+2026-03-21 19:17:41 INFO  tests.TestCheck - Product clicked
+2026-03-21 19:17:42 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/generic-31-ltrs-brown-laptop/661026398301#bcrumbSearch:laptop%20bags
+2026-03-21 19:17:42 INFO  tests.TestCheck - Product page validated
+2026-03-21 19:17:44 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 19:20:13 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 19:20:13 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 19:20:14 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 19:20:14 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 19:20:15 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 19:20:16 INFO  tests.TestCheck - Test started
+2026-03-21 19:20:18 INFO  tests.TestCheck - Search completed
+2026-03-21 19:20:18 INFO  tests.TestCheck - Search results loaded
+2026-03-21 19:20:18 INFO  tests.TestCheck - Search results validated
+2026-03-21 19:20:18 INFO  tests.TestCheck - Product clicked
+2026-03-21 19:20:19 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/luggage-world-35-ltrs-black/646518018504#bcrumbSearch:laptop%20bags
+2026-03-21 19:20:19 INFO  tests.TestCheck - Product page validated
+2026-03-21 19:20:21 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 19:21:00 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 19:21:00 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 19:21:00 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 19:21:00 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 19:21:01 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 19:21:03 INFO  tests.TestCheck - Test started
+2026-03-21 19:21:05 INFO  tests.TestCheck - Search completed
+2026-03-21 19:21:05 INFO  tests.TestCheck - Search results loaded
+2026-03-21 19:21:05 INFO  tests.TestCheck - Search results validated
+2026-03-21 19:21:05 INFO  tests.TestCheck - Product clicked
+2026-03-21 19:21:07 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/luggage-world-35-ltrs-black/646518018504#bcrumbSearch:laptop%20bags
+2026-03-21 19:21:07 INFO  tests.TestCheck - Product page validated
+2026-03-21 19:21:08 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 19:21:08 INFO  base.BaseTest - Closing browser
+2026-03-21 20:44:11 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 20:44:11 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 20:44:12 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 20:44:12 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 20:44:13 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 20:44:15 INFO  tests.TestCheck - Test started
+2026-03-21 20:44:15 INFO  tests.TestCheck - Searching for product: mobile
+2026-03-21 20:44:18 INFO  tests.TestCheck - Search completed
+2026-03-21 20:44:18 INFO  tests.TestCheck - Search results loaded
+2026-03-21 20:44:18 INFO  tests.TestCheck - Search results validated
+2026-03-21 20:44:18 INFO  tests.TestCheck - Product clicked
+2026-03-21 20:44:20 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/rmt-bluetooth-selfie-stick-black-/674219729216#bcrumbSearch:mobile
+2026-03-21 20:44:20 INFO  tests.TestCheck - Product page validated
+2026-03-21 20:44:21 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 20:44:21 INFO  base.BaseTest - Closing browser
+2026-03-21 20:44:28 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 20:44:28 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 20:44:29 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 20:44:29 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 20:44:30 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 20:44:32 INFO  tests.TestCheck - Test started
+2026-03-21 20:44:32 INFO  tests.TestCheck - Searching for product: shoes
+2026-03-21 20:44:34 INFO  tests.TestCheck - Search completed
+2026-03-21 20:44:34 INFO  tests.TestCheck - Search results loaded
+2026-03-21 20:44:34 INFO  tests.TestCheck - Search results validated
+2026-03-21 20:44:34 INFO  tests.TestCheck - Product clicked
+2026-03-21 20:44:36 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/xtoon-grey-mens-outdoor-shoes/664057051788#bcrumbSearch:shoes
+2026-03-21 20:44:36 INFO  tests.TestCheck - Product page validated
+2026-03-21 20:44:37 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 20:44:37 INFO  base.BaseTest - Closing browser
+2026-03-21 20:54:45 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 20:54:45 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 20:54:46 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 20:54:46 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 20:54:47 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 20:54:49 INFO  tests.TestCheck - Test started
+2026-03-21 20:54:49 INFO  tests.TestCheck - AI Selected product: sofa
+2026-03-21 20:54:51 INFO  tests.TestCheck - Search completed
+2026-03-21 20:54:51 INFO  tests.TestCheck - Search results loaded
+2026-03-21 20:54:51 INFO  tests.TestCheck - Search results validated
+2026-03-21 20:54:51 INFO  tests.TestCheck - Product clicked
+2026-03-21 20:54:53 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/sosha-home-decor-5-seater/5764608155591836919#bcrumbSearch:sofa
+2026-03-21 20:54:53 INFO  tests.TestCheck - Product page validated
+2026-03-21 20:54:54 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 20:54:54 INFO  base.BaseTest - Closing browser
+2026-03-21 20:54:54 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 20:54:54 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 20:54:54 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 20:54:55 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 20:54:57 INFO  tests.TestCheck - Test started
+2026-03-21 20:54:57 INFO  tests.TestCheck - AI Selected product: mobile
+2026-03-21 20:55:17 INFO  base.BaseTest - Closing browser
+2026-03-21 20:55:18 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 20:55:18 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 20:55:18 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 20:55:18 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 20:55:20 INFO  tests.TestCheck - Test started
+2026-03-21 20:55:20 INFO  tests.TestCheck - AI Selected product: tshirt
+2026-03-21 20:55:23 INFO  tests.TestCheck - Search completed
+2026-03-21 20:55:23 INFO  tests.TestCheck - Search results loaded
+2026-03-21 20:55:23 INFO  tests.TestCheck - Search results validated
+2026-03-21 20:55:23 INFO  tests.TestCheck - Product clicked
+2026-03-21 20:55:24 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/lewel-cotton-blend-oversized-fit/674506139460#bcrumbSearch:tshirt
+2026-03-21 20:55:24 INFO  tests.TestCheck - Product page validated
+2026-03-21 20:55:26 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 20:55:26 INFO  base.BaseTest - Closing browser
+2026-03-21 20:56:20 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 20:56:20 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 20:56:21 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 20:56:21 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 20:56:22 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 20:56:23 INFO  tests.TestCheck - Test started
+2026-03-21 20:56:23 INFO  tests.TestCheck - AI Selected product: watch
+2026-03-21 20:56:25 INFO  tests.TestCheck - Search completed
+2026-03-21 20:56:26 INFO  tests.TestCheck - Search results loaded
+2026-03-21 20:56:26 INFO  tests.TestCheck - Search results validated
+2026-03-21 20:56:26 INFO  tests.TestCheck - Product clicked
+2026-03-21 20:56:27 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/hdita-rose-gold-metal-analog/629731362989#bcrumbSearch:watch
+2026-03-21 20:56:27 INFO  tests.TestCheck - Product page validated
+2026-03-21 20:56:29 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 20:56:29 INFO  base.BaseTest - Closing browser
+2026-03-21 20:56:29 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 20:56:29 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 20:56:29 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 20:56:30 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 20:56:30 INFO  tests.TestCheck - Test started
+2026-03-21 20:56:30 INFO  tests.TestCheck - AI Selected product: headphones
+2026-03-21 20:56:32 INFO  tests.TestCheck - Search completed
+2026-03-21 20:56:32 INFO  tests.TestCheck - Search results loaded
+2026-03-21 20:56:32 INFO  tests.TestCheck - Search results validated
+2026-03-21 20:56:32 INFO  tests.TestCheck - Product clicked
+2026-03-21 20:56:33 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/neo-p9-bluetooth-bluetooth-headphone/675144584092#bcrumbSearch:headphones
+2026-03-21 20:56:33 INFO  tests.TestCheck - Product page validated
+2026-03-21 20:56:35 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 20:56:35 INFO  base.BaseTest - Closing browser
+2026-03-21 20:56:35 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 20:56:35 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 20:56:35 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 20:56:36 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 20:56:36 INFO  tests.TestCheck - Test started
+2026-03-21 20:56:36 INFO  tests.TestCheck - AI Selected product: mobile cover
+2026-03-21 20:56:57 INFO  base.BaseTest - Closing browser
+2026-03-21 21:00:41 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 21:00:41 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 21:00:42 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 21:00:42 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 21:00:43 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 21:00:45 INFO  tests.TestCheck - Test started
+2026-03-21 21:00:48 INFO  tests.TestCheck - Search completed
+2026-03-21 21:00:48 INFO  tests.TestCheck - Search results loaded
+2026-03-21 21:00:48 INFO  tests.TestCheck - Search results validated
+2026-03-21 21:00:48 INFO  tests.TestCheck - Product clicked
+2026-03-21 21:00:49 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/luggage-world-35-ltrs-black/646518018504#bcrumbSearch:laptop%20bags
+2026-03-21 21:00:49 INFO  tests.TestCheck - Product page validated
+2026-03-21 21:00:50 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 21:00:50 INFO  base.BaseTest - Closing browser
+2026-03-21 21:03:15 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 21:03:15 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 21:03:15 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 21:03:15 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 21:03:16 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 21:03:18 INFO  tests.TestCheck - Test started
+2026-03-21 21:03:18 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-21 21:03:20 INFO  tests.TestCheck - Search completed
+2026-03-21 21:03:20 INFO  tests.TestCheck - Search results loaded
+2026-03-21 21:03:20 INFO  tests.TestCheck - Search results validated
+2026-03-21 21:03:20 INFO  tests.TestCheck - Product clicked
+2026-03-21 21:03:22 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/jqr-atlanta-olive-mens-sports/5764608174553872016#bcrumbSearch:running%20shoes
+2026-03-21 21:03:22 INFO  tests.TestCheck - Product page validated
+2026-03-21 21:03:24 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 21:03:24 INFO  base.BaseTest - Closing browser
+2026-03-21 23:22:31 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 23:22:31 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 23:22:32 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 23:22:32 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 23:22:33 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 23:22:34 INFO  tests.TestCheck - Test started
+2026-03-21 23:22:34 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-21 23:22:36 INFO  tests.TestCheck - Search completed
+2026-03-21 23:22:36 INFO  tests.TestCheck - Search results loaded
+2026-03-21 23:22:36 INFO  tests.TestCheck - Search results validated
+2026-03-21 23:22:36 INFO  tests.TestCheck - Product clicked
+2026-03-21 23:22:38 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-21 23:22:38 INFO  tests.TestCheck - Product page validated
+2026-03-21 23:22:39 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 23:22:39 INFO  base.BaseTest - Closing browser
+2026-03-21 23:24:32 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 23:24:32 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 23:24:32 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 23:24:32 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 23:24:33 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 23:24:35 INFO  tests.TestCheck - Test started
+2026-03-21 23:24:35 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-21 23:24:37 INFO  tests.TestCheck - Search completed
+2026-03-21 23:24:37 INFO  tests.TestCheck - Search results loaded
+2026-03-21 23:24:37 INFO  tests.TestCheck - Search results validated
+2026-03-21 23:24:37 INFO  tests.TestCheck - Product clicked
+2026-03-21 23:24:38 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/jqr-atlanta-olive-mens-sports/5764608174553872016#bcrumbSearch:running%20shoes
+2026-03-21 23:24:38 INFO  tests.TestCheck - Product page validated
+2026-03-21 23:24:39 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 23:24:39 INFO  base.BaseTest - Closing browser
+2026-03-21 23:28:25 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 23:28:25 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 23:28:26 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 23:28:26 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 23:28:27 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 23:28:27 INFO  tests.TestCheck - Test started
+2026-03-21 23:28:27 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-21 23:28:29 INFO  tests.TestCheck - Search completed
+2026-03-21 23:28:29 INFO  tests.TestCheck - Search results loaded
+2026-03-21 23:28:29 INFO  tests.TestCheck - Search results validated
+2026-03-21 23:28:29 INFO  tests.TestCheck - Product clicked
+2026-03-21 23:28:31 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-21 23:28:31 INFO  tests.TestCheck - Product page validated
+2026-03-21 23:28:32 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 23:28:32 INFO  base.BaseTest - Closing browser
+2026-03-21 23:28:40 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 23:28:40 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 23:28:41 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 23:28:41 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 23:28:42 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 23:28:43 INFO  tests.TestCheck - Test started
+2026-03-21 23:28:43 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-21 23:28:45 INFO  tests.TestCheck - Search completed
+2026-03-21 23:28:45 INFO  tests.TestCheck - Search results loaded
+2026-03-21 23:28:45 INFO  tests.TestCheck - Search results validated
+2026-03-21 23:28:45 INFO  tests.TestCheck - Product clicked
+2026-03-21 23:28:46 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/tws-wireless-bluetooth-earbuds-tws/628449326595#bcrumbSearch:wireless%20headphones
+2026-03-21 23:28:46 INFO  tests.TestCheck - Product page validated
+2026-03-21 23:28:48 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 23:28:48 INFO  base.BaseTest - Closing browser
+2026-03-21 23:33:20 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 23:33:20 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 23:33:20 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 23:33:20 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 23:33:21 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 23:33:23 INFO  tests.TestCheck - Test started
+2026-03-21 23:33:23 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-21 23:33:25 INFO  tests.TestCheck - Search completed
+2026-03-21 23:33:25 INFO  tests.TestCheck - Search results loaded
+2026-03-21 23:33:25 INFO  tests.TestCheck - Search results validated
+2026-03-21 23:33:25 INFO  tests.TestCheck - Product clicked
+2026-03-21 23:33:26 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-21 23:33:26 INFO  tests.TestCheck - Product page validated
+2026-03-21 23:33:27 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 23:33:27 INFO  base.BaseTest - Closing browser
+2026-03-21 23:35:31 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 23:35:31 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 23:35:31 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 23:35:31 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 23:35:32 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 23:35:34 INFO  tests.TestCheck - Test started
+2026-03-21 23:35:34 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-21 23:35:36 INFO  tests.TestCheck - Search completed
+2026-03-21 23:35:36 INFO  tests.TestCheck - Search results loaded
+2026-03-21 23:35:36 INFO  tests.TestCheck - Search results validated
+2026-03-21 23:35:36 INFO  tests.TestCheck - Product clicked
+2026-03-21 23:35:37 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/wireless-bluetooth-earbuds-tws-earbuds/685936227992#bcrumbSearch:wireless%20headphones
+2026-03-21 23:35:37 INFO  tests.TestCheck - Product page validated
+2026-03-21 23:35:38 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 23:35:38 INFO  base.BaseTest - Closing browser
+2026-03-21 23:40:51 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 23:40:52 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 23:40:52 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 23:40:52 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 23:40:53 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 23:40:54 INFO  tests.TestCheck - Test started
+2026-03-21 23:40:54 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-21 23:40:54 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-21 23:40:55 INFO  tests.TestCheck - Search completed
+2026-03-21 23:40:55 INFO  tests.TestCheck - Search results loaded
+2026-03-21 23:40:55 INFO  tests.TestCheck - Search results validated
+2026-03-21 23:40:56 INFO  tests.TestCheck - Product clicked
+2026-03-21 23:40:57 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-21 23:40:57 INFO  tests.TestCheck - Product page validated
+2026-03-21 23:40:58 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 23:40:58 INFO  base.BaseTest - Closing browser
+2026-03-21 23:41:47 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 23:41:47 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 23:41:47 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 23:41:47 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 23:41:48 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 23:41:50 INFO  tests.TestCheck - Test started
+2026-03-21 23:41:50 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-21 23:41:50 INFO  tests.TestCheck - AI Generated product: office chair
+2026-03-21 23:41:52 INFO  tests.TestCheck - Search completed
+2026-03-21 23:41:52 INFO  tests.TestCheck - Search results loaded
+2026-03-21 23:41:52 INFO  tests.TestCheck - Search results validated
+2026-03-21 23:41:52 INFO  tests.TestCheck - Product clicked
+2026-03-21 23:41:53 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/wonder-decor-1-seater-velvet/6341068895459456041#bcrumbSearch:office%20chair
+2026-03-21 23:41:53 INFO  tests.TestCheck - Product page validated
+2026-03-21 23:41:54 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 23:41:54 INFO  base.BaseTest - Closing browser
+2026-03-21 23:57:50 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-21 23:57:50 INFO  base.BaseTest - Initializing WebDriver
+2026-03-21 23:57:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-21 23:57:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-21 23:57:52 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-21 23:57:53 INFO  tests.TestCheck - Test started
+2026-03-21 23:57:53 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-21 23:57:53 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-21 23:57:56 INFO  tests.TestCheck - Search completed
+2026-03-21 23:57:56 INFO  tests.TestCheck - Search results loaded
+2026-03-21 23:57:56 INFO  tests.TestCheck - Search results validated
+2026-03-21 23:57:56 INFO  tests.TestCheck - Product clicked
+2026-03-21 23:57:57 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-21 23:57:57 INFO  tests.TestCheck - Product page validated
+2026-03-21 23:57:58 INFO  tests.TestCheck - Add to cart clicked
+2026-03-21 23:57:58 INFO  base.BaseTest - Closing browser
+2026-03-22 03:20:57 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 03:20:57 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 03:20:59 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 03:20:59 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 03:21:00 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 03:21:02 INFO  tests.TestCheck - Test started
+2026-03-22 03:21:02 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 03:21:02 INFO  tests.TestCheck - AI Generated product: office chair
+2026-03-22 03:21:05 INFO  tests.TestCheck - Search completed
+2026-03-22 03:21:05 INFO  tests.TestCheck - Search results loaded
+2026-03-22 03:21:05 INFO  tests.TestCheck - Search results validated
+2026-03-22 03:21:05 INFO  tests.TestCheck - Product clicked
+2026-03-22 03:21:07 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/sosha-home-decor-4-seater/663680856918#bcrumbSearch:office%20chair
+2026-03-22 03:21:07 INFO  tests.TestCheck - Product page validated
+2026-03-22 03:21:08 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 03:21:08 INFO  base.BaseTest - Closing browser
+2026-03-22 10:40:11 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 10:40:11 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 10:40:12 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 10:40:12 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 10:40:13 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 10:40:16 INFO  tests.TestCheck - Test started
+2026-03-22 10:40:16 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 10:40:16 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 10:40:19 INFO  tests.TestCheck - Search completed
+2026-03-22 10:40:19 INFO  tests.TestCheck - Search results loaded
+2026-03-22 10:40:19 INFO  tests.TestCheck - Search results validated
+2026-03-22 10:40:19 INFO  tests.TestCheck - Product clicked
+2026-03-22 10:40:24 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 10:40:24 INFO  tests.TestCheck - Product page validated
+2026-03-22 10:40:26 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 10:40:26 INFO  base.BaseTest - Closing browser
+2026-03-22 11:38:21 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 11:38:21 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 11:38:23 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 11:38:23 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 11:38:24 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 11:38:25 INFO  tests.TestCheck - Test started
+2026-03-22 11:38:25 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 11:38:25 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 11:38:27 INFO  tests.TestCheck - Search completed
+2026-03-22 11:38:27 INFO  tests.TestCheck - Search results loaded
+2026-03-22 11:38:27 INFO  tests.TestCheck - Search results validated
+2026-03-22 11:38:27 INFO  tests.TestCheck - Product clicked
+2026-03-22 11:38:28 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 11:38:28 INFO  tests.TestCheck - Product page validated
+2026-03-22 11:38:30 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 11:38:30 INFO  base.BaseTest - Closing browser
+2026-03-22 11:38:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 11:38:36 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 11:38:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 11:38:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 11:38:38 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 11:38:40 INFO  tests.TestCheck - Test started
+2026-03-22 11:38:40 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 11:38:40 INFO  tests.TestCheck - AI Generated product: office chair
+2026-03-22 11:38:42 INFO  tests.TestCheck - Search completed
+2026-03-22 11:38:42 INFO  tests.TestCheck - Search results loaded
+2026-03-22 11:38:42 INFO  tests.TestCheck - Search results validated
+2026-03-22 11:38:42 INFO  tests.TestCheck - Product clicked
+2026-03-22 11:38:44 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/mahaluxmi-collection-1-seater-polyester/7493990460960550659#bcrumbSearch:office%20chair
+2026-03-22 11:38:44 INFO  tests.TestCheck - Product page validated
+2026-03-22 11:38:45 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 11:38:45 INFO  base.BaseTest - Closing browser
+2026-03-22 11:45:03 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 11:45:03 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 11:45:04 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 11:45:04 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 11:45:05 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 11:45:07 INFO  tests.TestCheck - Test started
+2026-03-22 11:45:07 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 11:45:07 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 11:45:09 INFO  tests.TestCheck - Search completed
+2026-03-22 11:45:09 INFO  tests.TestCheck - Search results loaded
+2026-03-22 11:45:09 INFO  tests.TestCheck - Search results validated
+2026-03-22 11:45:09 INFO  tests.TestCheck - Product 1 Name: Campus DREAMPLEX Black Running Shoes
+Rs. 2,599
+Rs. 949
+63% Off
+(351)
+2026-03-22 11:45:09 INFO  tests.TestCheck - Product clicked
+2026-03-22 11:45:10 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-22 11:45:10 INFO  tests.TestCheck - Product page validated
+2026-03-22 11:45:12 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 11:45:12 INFO  tests.TestCheck - Clicked View Cart
+2026-03-22 11:45:12 INFO  tests.TestCheck - Selected Chennai Pincode: 600006
+2026-03-22 11:45:43 INFO  base.BaseTest - Closing browser
+2026-03-22 12:19:57 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 12:19:57 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 12:19:57 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 12:19:57 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 12:19:58 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 12:20:00 INFO  tests.TestCheck - Test started
+2026-03-22 12:20:00 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 12:20:00 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 12:20:03 INFO  tests.TestCheck - Search completed
+2026-03-22 12:20:03 INFO  tests.TestCheck - Search results loaded
+2026-03-22 12:20:03 INFO  tests.TestCheck - Search results validated
+2026-03-22 12:20:03 INFO  tests.TestCheck - Product 1 Name: Life Like Ultra Max Smart Watch 24k Gold 2.01 Inch HD Smartwatch Smart Watch | Sleep Monitor | Distance Tracker | Calendaring | Sedentary Reminder | Text Messaging | Pedometer | Calorie Tracker | Heart Rate Monitor Smartwatch
+Rs. 1,999
+Rs. 522
+74% Off
+(189)
+2026-03-22 12:20:04 INFO  tests.TestCheck - Product clicked
+2026-03-22 12:20:05 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 12:20:05 INFO  tests.TestCheck - Product page validated
+2026-03-22 12:20:06 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 12:20:06 INFO  tests.TestCheck - Clicked View Cart
+2026-03-22 12:20:06 INFO  tests.TestCheck - Selected Chennai Pincode: 600007
+2026-03-22 12:20:37 INFO  base.BaseTest - Closing browser
+2026-03-22 12:25:58 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 12:25:58 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 12:25:59 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 12:25:59 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 12:26:00 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 12:26:02 INFO  tests.TestCheck - Test started
+2026-03-22 12:26:02 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 12:26:02 INFO  tests.TestCheck - AI Generated product: office chair
+2026-03-22 12:26:04 INFO  tests.TestCheck - Search completed
+2026-03-22 12:26:04 INFO  tests.TestCheck - Search results loaded
+2026-03-22 12:26:04 INFO  tests.TestCheck - Search results validated
+2026-03-22 12:26:04 INFO  tests.TestCheck - Product 1 Name: GIFTS ISLAND 6 Seater Velvet Chair Cover ( Pack of 6 )
+Rs. 1,999
+Rs. 979
+51% Off
+(69)
+2026-03-22 12:26:05 INFO  tests.TestCheck - Product clicked
+2026-03-22 12:26:06 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/gifts-island-6-seater-velvet/7493990402713310831#bcrumbSearch:office%20chair
+2026-03-22 12:26:06 INFO  tests.TestCheck - Product page validated
+2026-03-22 12:26:07 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 12:26:07 INFO  tests.TestCheck - Current URL after View Cart: https://www.snapdeal.com/cart/addToCart?supc=SDL620355849&vendorCode=Sb9198&hardAdded=false
+2026-03-22 12:26:07 INFO  tests.TestCheck - Clicked View Cart
+2026-03-22 12:26:41 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 12:26:41 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 12:26:42 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 12:26:42 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 12:26:43 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 12:26:44 INFO  tests.TestCheck - Test started
+2026-03-22 12:26:44 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 12:26:44 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 12:26:46 INFO  tests.TestCheck - Search completed
+2026-03-22 12:26:46 INFO  tests.TestCheck - Search results loaded
+2026-03-22 12:26:46 INFO  tests.TestCheck - Search results validated
+2026-03-22 12:26:46 INFO  tests.TestCheck - Product 1 Name: Captain America , Carter , Deliver Us , Kraven the Hunter , Squad 36 , The Killer's Game , Calendar Killer , Hellboy , Back in Action in Hindi & English both play only in Computer or Laptop HD Quality without Poster
+Rs. 900
+Rs. 453
+50% Off
+2026-03-22 12:26:46 INFO  tests.TestCheck - Product clicked
+2026-03-22 12:26:47 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 12:26:47 INFO  tests.TestCheck - Product page validated
+2026-03-22 12:26:48 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 12:26:48 INFO  tests.TestCheck - Current URL after View Cart: https://www.snapdeal.com/cart/addToCart?supc=SDL028599706&vendorCode=Sda8b0&hardAdded=false
+2026-03-22 12:26:49 INFO  tests.TestCheck - Clicked View Cart
+2026-03-22 12:27:20 INFO  base.BaseTest - Closing browser
+2026-03-22 12:28:57 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 12:28:57 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 12:28:57 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 12:28:57 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 12:28:58 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 12:29:00 INFO  tests.TestCheck - Test started
+2026-03-22 12:29:00 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 12:29:00 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 12:29:02 INFO  tests.TestCheck - Search completed
+2026-03-22 12:29:02 INFO  tests.TestCheck - Search results loaded
+2026-03-22 12:29:02 INFO  tests.TestCheck - Search results validated
+2026-03-22 12:29:02 INFO  tests.TestCheck - Product clicked
+2026-03-22 12:29:03 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/clymb-epic-navy-mens-sports/684178575058#bcrumbSearch:running%20shoes
+2026-03-22 12:29:03 INFO  tests.TestCheck - Product page validated
+2026-03-22 12:29:05 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 12:29:05 INFO  base.BaseTest - Closing browser
+2026-03-22 12:29:13 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 12:29:13 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 12:29:14 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 12:29:14 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 12:29:15 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 12:29:16 INFO  tests.TestCheck - Test started
+2026-03-22 12:29:16 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 12:29:16 INFO  tests.TestCheck - AI Generated product: office chair
+2026-03-22 12:29:18 INFO  tests.TestCheck - Search completed
+2026-03-22 12:29:18 INFO  tests.TestCheck - Search results loaded
+2026-03-22 12:29:18 INFO  tests.TestCheck - Search results validated
+2026-03-22 12:29:18 INFO  tests.TestCheck - Product clicked
+2026-03-22 12:29:19 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/sosha-home-decor-4-seater/663680856918#bcrumbSearch:office%20chair
+2026-03-22 12:29:19 INFO  tests.TestCheck - Product page validated
+2026-03-22 12:29:20 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 12:29:20 INFO  base.BaseTest - Closing browser
+2026-03-22 12:47:33 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 12:47:34 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 12:47:35 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 12:47:35 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 12:47:36 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 12:47:37 INFO  tests.TestCheck - Test started
+2026-03-22 12:47:37 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 12:47:37 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 12:47:39 INFO  tests.TestCheck - Search completed
+2026-03-22 12:47:39 INFO  tests.TestCheck - Search results loaded
+2026-03-22 12:47:39 INFO  tests.TestCheck - Search results validated
+2026-03-22 12:47:39 INFO  tests.TestCheck - Product clicked
+2026-03-22 12:47:40 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/wireless-bluetooth-earbuds-tws-earbuds/685936227992#bcrumbSearch:wireless%20headphones
+2026-03-22 12:47:40 INFO  tests.TestCheck - Product page validated
+2026-03-22 12:47:42 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 12:47:42 INFO  base.BaseTest - Closing browser
+2026-03-22 12:53:50 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 12:53:50 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 12:53:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 12:53:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 12:53:52 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 12:53:53 INFO  tests.TestCheck - Test started
+2026-03-22 12:53:53 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 12:53:53 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 12:53:55 INFO  tests.TestCheck - Search completed
+2026-03-22 12:53:55 INFO  tests.TestCheck - Search results loaded
+2026-03-22 12:53:55 INFO  tests.TestCheck - Search results validated
+2026-03-22 12:53:55 INFO  tests.TestCheck - Product clicked
+2026-03-22 12:53:56 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 12:53:56 INFO  tests.TestCheck - Product page validated
+2026-03-22 12:53:57 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 12:53:57 INFO  base.BaseTest - Closing browser
+2026-03-22 14:39:53 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 14:39:53 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 14:39:55 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 14:39:55 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 14:39:56 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 14:39:57 INFO  tests.TestCheck - Test started
+2026-03-22 14:39:57 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 14:39:57 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 14:39:59 INFO  tests.TestCheck - Search completed
+2026-03-22 14:39:59 INFO  tests.TestCheck - Search results loaded
+2026-03-22 14:39:59 INFO  tests.TestCheck - Search results validated
+2026-03-22 14:39:59 INFO  tests.TestCheck - Product clicked
+2026-03-22 14:40:00 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 14:40:00 INFO  tests.TestCheck - Product page validated
+2026-03-22 14:40:02 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 14:40:02 INFO  tests.TestCheck - Waiting for cart page to load
+2026-03-22 14:40:32 INFO  base.BaseTest - Closing browser
+2026-03-22 14:46:25 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 14:46:25 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 14:46:26 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 14:46:26 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 14:46:27 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 14:46:28 INFO  tests.TestCheck - Test started
+2026-03-22 14:46:28 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 14:46:28 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 14:46:30 INFO  tests.TestCheck - Search completed
+2026-03-22 14:46:30 INFO  tests.TestCheck - Search results loaded
+2026-03-22 14:46:30 INFO  tests.TestCheck - Search results validated
+2026-03-22 14:46:30 INFO  tests.TestCheck - Product clicked
+2026-03-22 14:46:31 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 14:46:31 INFO  tests.TestCheck - Product page validated
+2026-03-22 14:46:32 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 14:47:03 INFO  base.BaseTest - Closing browser
+2026-03-22 14:50:50 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 14:50:50 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 14:50:50 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 14:50:50 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 14:50:51 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 14:50:52 INFO  tests.TestCheck - Test started
+2026-03-22 14:50:52 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 14:50:52 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 14:50:54 INFO  tests.TestCheck - Search completed
+2026-03-22 14:50:54 INFO  tests.TestCheck - Search results loaded
+2026-03-22 14:50:54 INFO  tests.TestCheck - Search results validated
+2026-03-22 14:50:54 INFO  tests.TestCheck - Product clicked
+2026-03-22 14:50:56 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 14:51:26 INFO  base.BaseTest - Closing browser
+2026-03-22 14:53:42 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 14:53:42 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 14:53:42 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 14:53:42 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 14:53:43 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 14:53:45 INFO  tests.TestCheck - Test started
+2026-03-22 14:53:45 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 14:53:45 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 14:53:47 INFO  tests.TestCheck - Search completed
+2026-03-22 14:53:47 INFO  tests.TestCheck - Search results loaded
+2026-03-22 14:53:47 INFO  tests.TestCheck - Search results validated
+2026-03-22 14:53:47 INFO  tests.TestCheck - Product clicked
+2026-03-22 14:54:04 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-22 14:54:04 INFO  tests.TestCheck - Product page validated
+2026-03-22 14:54:05 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 14:54:05 INFO  base.BaseTest - Closing browser
+2026-03-22 14:54:13 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 14:54:13 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 14:54:14 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 14:54:14 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 14:54:15 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 14:54:16 INFO  tests.TestCheck - Test started
+2026-03-22 14:54:16 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 14:54:16 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 14:54:18 INFO  tests.TestCheck - Search completed
+2026-03-22 14:54:18 INFO  tests.TestCheck - Search results loaded
+2026-03-22 14:54:18 INFO  tests.TestCheck - Search results validated
+2026-03-22 14:54:18 INFO  tests.TestCheck - Product clicked
+2026-03-22 14:54:19 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/tws-wireless-bluetooth-earbuds-tws/628449326595#bcrumbSearch:wireless%20headphones
+2026-03-22 14:54:19 INFO  tests.TestCheck - Product page validated
+2026-03-22 14:54:20 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 14:54:20 INFO  base.BaseTest - Closing browser
+2026-03-22 15:17:54 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 15:17:54 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 15:17:55 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 15:17:55 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 15:17:56 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 15:17:56 INFO  tests.TestCheck - Test started
+2026-03-22 15:17:56 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 15:17:56 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 15:17:58 INFO  tests.TestCheck - Search completed
+2026-03-22 15:17:58 INFO  tests.TestCheck - Search results loaded
+2026-03-22 15:17:58 INFO  tests.TestCheck - Search results validated
+2026-03-22 15:17:58 INFO  tests.TestCheck - Product clicked
+2026-03-22 15:17:59 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 15:17:59 INFO  tests.TestCheck - Product page validated
+2026-03-22 15:18:00 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 15:18:00 INFO  base.BaseTest - Closing browser
+2026-03-22 15:34:00 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 15:34:00 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 15:34:01 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 15:34:01 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 15:34:02 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 15:34:03 INFO  tests.TestCheck - Test started
+2026-03-22 15:34:03 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 15:34:03 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 15:34:06 INFO  tests.TestCheck - Search completed
+2026-03-22 15:34:06 INFO  tests.TestCheck - Search results loaded
+2026-03-22 15:34:06 INFO  tests.TestCheck - Search results validated
+2026-03-22 15:34:06 INFO  tests.TestCheck - Product clicked
+2026-03-22 15:34:07 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-22 15:34:07 INFO  tests.TestCheck - Product page validated
+2026-03-22 15:34:09 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 15:34:09 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 15:34:29 INFO  base.BaseTest - Closing browser
+2026-03-22 15:35:56 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 15:35:56 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 15:35:56 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 15:35:56 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 15:35:57 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 15:35:59 INFO  tests.TestCheck - Test started
+2026-03-22 15:35:59 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 15:35:59 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 15:36:01 INFO  tests.TestCheck - Search completed
+2026-03-22 15:36:01 INFO  tests.TestCheck - Search results loaded
+2026-03-22 15:36:01 INFO  tests.TestCheck - Search results validated
+2026-03-22 15:36:01 INFO  tests.TestCheck - Product clicked
+2026-03-22 15:36:02 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 15:36:02 INFO  tests.TestCheck - Product page validated
+2026-03-22 15:36:03 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 15:36:04 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 15:36:24 INFO  base.BaseTest - Closing browser
+2026-03-22 15:40:01 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 15:40:01 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 15:40:02 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 15:40:02 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 15:40:03 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 15:40:06 INFO  tests.TestCheck - Test started
+2026-03-22 15:40:06 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 15:40:06 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 15:40:08 INFO  tests.TestCheck - Search completed
+2026-03-22 15:40:08 INFO  tests.TestCheck - Search results loaded
+2026-03-22 15:40:08 INFO  tests.TestCheck - Search results validated
+2026-03-22 15:40:08 INFO  tests.TestCheck - Product clicked
+2026-03-22 15:40:10 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 15:40:10 INFO  tests.TestCheck - Product page validated
+2026-03-22 15:40:12 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 15:40:12 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 15:40:43 INFO  base.BaseTest - Closing browser
+2026-03-22 15:43:30 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 15:43:30 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 15:43:30 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 15:43:30 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 15:43:31 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 15:43:33 INFO  tests.TestCheck - Test started
+2026-03-22 15:43:33 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 15:43:33 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 15:43:34 INFO  tests.TestCheck - Search completed
+2026-03-22 15:43:34 INFO  tests.TestCheck - Search results loaded
+2026-03-22 15:43:34 INFO  tests.TestCheck - Search results validated
+2026-03-22 15:43:35 INFO  tests.TestCheck - Product clicked
+2026-03-22 15:43:36 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-22 15:43:36 INFO  tests.TestCheck - Product page validated
+2026-03-22 15:43:37 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 15:43:37 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 15:43:58 INFO  base.BaseTest - Closing browser
+2026-03-22 15:51:14 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 15:51:14 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 15:51:14 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 15:51:14 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 15:51:15 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 15:51:17 INFO  tests.TestCheck - Test started
+2026-03-22 15:51:17 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 15:51:17 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 15:51:19 INFO  tests.TestCheck - Search completed
+2026-03-22 15:51:19 INFO  tests.TestCheck - Search results loaded
+2026-03-22 15:51:19 INFO  tests.TestCheck - Search results validated
+2026-03-22 15:51:19 INFO  tests.TestCheck - Product clicked
+2026-03-22 15:51:20 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 15:51:20 INFO  tests.TestCheck - Product page validated
+2026-03-22 15:51:21 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 15:51:21 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 15:51:21 INFO  base.BaseTest - Closing browser
+2026-03-22 15:56:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 15:56:37 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 15:56:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 15:56:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 15:56:38 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 15:56:40 INFO  tests.TestCheck - Test started
+2026-03-22 15:56:40 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 15:56:40 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 15:56:42 INFO  tests.TestCheck - Search completed
+2026-03-22 15:56:42 INFO  tests.TestCheck - Search results loaded
+2026-03-22 15:56:42 INFO  tests.TestCheck - Search results validated
+2026-03-22 15:56:42 INFO  tests.TestCheck - Product clicked
+2026-03-22 15:56:44 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/tws-wireless-bluetooth-earbuds-tws/628449326595#bcrumbSearch:wireless%20headphones
+2026-03-22 15:56:44 INFO  tests.TestCheck - Product page validated
+2026-03-22 15:56:45 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 15:56:45 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 15:56:45 INFO  base.BaseTest - Closing browser
+2026-03-22 15:58:59 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 15:58:59 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 15:59:00 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 15:59:00 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 15:59:00 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 15:59:02 INFO  tests.TestCheck - Test started
+2026-03-22 15:59:02 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 15:59:02 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 15:59:04 INFO  tests.TestCheck - Search completed
+2026-03-22 15:59:04 INFO  tests.TestCheck - Search results loaded
+2026-03-22 15:59:04 INFO  tests.TestCheck - Search results validated
+2026-03-22 15:59:04 INFO  tests.TestCheck - Product clicked
+2026-03-22 15:59:05 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/tws-wireless-bluetooth-earbuds-tws/628449326595#bcrumbSearch:wireless%20headphones
+2026-03-22 15:59:05 INFO  tests.TestCheck - Product page validated
+2026-03-22 15:59:06 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 15:59:06 INFO  base.BaseTest - Closing browser
+2026-03-22 16:02:09 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:02:09 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:02:09 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:02:09 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:02:10 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:02:11 INFO  tests.TestCheck - Test started
+2026-03-22 16:02:11 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:02:11 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 16:02:12 INFO  tests.TestCheck - Search completed
+2026-03-22 16:02:12 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:02:12 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:02:12 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:02:14 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 16:02:14 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:02:15 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:02:15 INFO  base.BaseTest - Closing browser
+2026-03-22 16:02:19 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:02:20 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:02:20 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:02:20 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:02:21 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:02:21 INFO  tests.TestCheck - Test started
+2026-03-22 16:02:21 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:02:21 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 16:02:23 INFO  tests.TestCheck - Search completed
+2026-03-22 16:02:23 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:02:23 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:02:23 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:02:25 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 16:02:25 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:02:26 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:02:26 INFO  base.BaseTest - Closing browser
+2026-03-22 16:03:07 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:03:07 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:03:08 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:03:08 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:03:09 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:03:10 INFO  tests.TestCheck - Test started
+2026-03-22 16:03:10 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:03:10 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 16:03:13 INFO  tests.TestCheck - Search completed
+2026-03-22 16:03:13 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:03:13 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:03:13 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:03:14 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-22 16:03:14 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:03:15 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:03:15 INFO  base.BaseTest - Closing browser
+2026-03-22 16:04:23 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:04:23 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:04:23 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:04:23 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:04:24 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:04:25 INFO  tests.TestCheck - Test started
+2026-03-22 16:04:25 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:04:25 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 16:04:27 INFO  tests.TestCheck - Search completed
+2026-03-22 16:04:27 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:04:27 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:04:27 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:04:29 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 16:04:29 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:04:30 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:04:30 INFO  base.BaseTest - Closing browser
+2026-03-22 16:08:12 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:08:12 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:08:13 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:08:13 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:08:13 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:08:15 INFO  tests.TestCheck - Test started
+2026-03-22 16:08:15 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:08:15 INFO  tests.TestCheck - AI Generated product: office chair
+2026-03-22 16:08:17 INFO  tests.TestCheck - Search completed
+2026-03-22 16:08:17 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:08:17 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:08:17 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:08:18 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/gifts-island-6-seater-velvet/6917529650409887343#bcrumbSearch:office%20chair
+2026-03-22 16:08:18 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:08:19 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:08:19 INFO  tests.TestCheck - Cart View
+2026-03-22 16:08:19 INFO  base.BaseTest - Closing browser
+2026-03-22 16:09:11 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:09:11 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:09:12 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:09:12 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:09:13 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:09:14 INFO  tests.TestCheck - Test started
+2026-03-22 16:09:14 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:09:14 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 16:09:16 INFO  tests.TestCheck - Search completed
+2026-03-22 16:09:16 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:09:16 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:09:16 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:09:17 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-22 16:09:17 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:09:18 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:09:18 INFO  tests.TestCheck - Cart View
+2026-03-22 16:09:18 INFO  base.BaseTest - Closing browser
+2026-03-22 16:11:49 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:11:49 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:11:50 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:11:50 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:11:51 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:11:52 INFO  tests.TestCheck - Test started
+2026-03-22 16:11:52 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:11:52 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 16:11:54 INFO  tests.TestCheck - Search completed
+2026-03-22 16:11:54 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:11:54 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:11:54 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:11:55 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 16:11:55 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:11:56 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:11:56 INFO  tests.TestCheck - Cart View
+2026-03-22 16:11:56 INFO  base.BaseTest - Closing browser
+2026-03-22 16:14:44 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:14:44 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:14:44 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:14:44 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:14:45 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:14:46 INFO  tests.TestCheck - Test started
+2026-03-22 16:14:46 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:14:46 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 16:14:48 INFO  tests.TestCheck - Search completed
+2026-03-22 16:14:48 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:14:48 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:14:48 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:14:49 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/tws-wireless-bluetooth-earbuds-tws/628449326595#bcrumbSearch:wireless%20headphones
+2026-03-22 16:14:49 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:14:51 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:14:51 INFO  tests.TestCheck - Cart View
+2026-03-22 16:14:51 INFO  base.BaseTest - Closing browser
+2026-03-22 16:14:55 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:14:55 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:14:55 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:14:55 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:14:56 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:14:58 INFO  tests.TestCheck - Test started
+2026-03-22 16:14:58 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:14:58 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 16:15:00 INFO  tests.TestCheck - Search completed
+2026-03-22 16:15:00 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:15:00 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:15:00 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:15:02 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/tws-wireless-bluetooth-earbuds-tws/628449326595#bcrumbSearch:wireless%20headphones
+2026-03-22 16:15:02 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:15:03 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:15:03 INFO  tests.TestCheck - Cart View
+2026-03-22 16:15:03 INFO  base.BaseTest - Closing browser
+2026-03-22 16:17:59 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:17:59 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:17:59 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:17:59 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:18:00 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:18:02 INFO  tests.TestCheck - Test started
+2026-03-22 16:18:02 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:18:02 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 16:18:04 INFO  tests.TestCheck - Search completed
+2026-03-22 16:18:04 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:18:04 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:18:04 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:18:06 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 16:18:06 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:18:07 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:18:07 INFO  tests.TestCheck - Cart View
+2026-03-22 16:18:07 INFO  base.BaseTest - Closing browser
+2026-03-22 16:19:59 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:19:59 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:19:59 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:19:59 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:20:00 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:20:02 INFO  tests.TestCheck - Test started
+2026-03-22 16:20:02 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:20:02 INFO  tests.TestCheck - AI Generated product: office chair
+2026-03-22 16:20:03 INFO  tests.TestCheck - Search completed
+2026-03-22 16:20:03 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:20:03 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:20:03 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:20:04 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/mahaluxmi-collection-1-seater-polyester/6917529708657127171#bcrumbSearch:office%20chair
+2026-03-22 16:20:04 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:20:06 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:20:21 INFO  tests.TestCheck - Cart View
+2026-03-22 16:20:21 INFO  base.BaseTest - Closing browser
+2026-03-22 16:20:33 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:20:33 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:20:33 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:20:33 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:20:34 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:20:35 INFO  tests.TestCheck - Test started
+2026-03-22 16:20:35 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:20:35 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 16:20:37 INFO  tests.TestCheck - Search completed
+2026-03-22 16:20:37 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:20:37 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:20:37 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:20:38 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 16:20:38 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:20:39 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:20:54 INFO  tests.TestCheck - Cart View
+2026-03-22 16:20:54 INFO  base.BaseTest - Closing browser
+2026-03-22 16:23:37 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:23:37 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:23:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:23:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:23:38 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:23:40 INFO  tests.TestCheck - Test started
+2026-03-22 16:23:40 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:23:40 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 16:24:00 INFO  base.BaseTest - Closing browser
+2026-03-22 16:24:40 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:24:40 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:24:40 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:24:40 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:24:41 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:24:43 INFO  tests.TestCheck - Test started
+2026-03-22 16:24:43 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:24:43 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 16:24:45 INFO  tests.TestCheck - Search completed
+2026-03-22 16:24:45 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:24:45 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:24:45 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:24:47 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 16:24:47 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:24:48 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:24:48 INFO  tests.TestCheck - Cart View
+2026-03-22 16:24:48 INFO  base.BaseTest - Closing browser
+2026-03-22 16:27:05 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:27:05 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:27:05 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:27:05 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:27:06 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:27:07 INFO  tests.TestCheck - Test started
+2026-03-22 16:27:07 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:27:07 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 16:27:09 INFO  tests.TestCheck - Search completed
+2026-03-22 16:27:09 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:27:10 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:27:10 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:27:11 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 16:27:11 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:27:12 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:27:12 INFO  tests.TestCheck - Cart View
+2026-03-22 16:27:12 INFO  base.BaseTest - Closing browser
+2026-03-22 16:29:41 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:29:41 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:29:41 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:29:41 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:29:42 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:29:44 INFO  tests.TestCheck - Test started
+2026-03-22 16:29:44 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:29:44 INFO  tests.TestCheck - AI Generated product: office chair
+2026-03-22 16:29:46 INFO  tests.TestCheck - Search completed
+2026-03-22 16:29:46 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:29:46 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:29:46 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:29:47 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/urbanarts-4-seater-polyester-chair/629821137488#bcrumbSearch:office%20chair
+2026-03-22 16:29:47 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:29:48 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:29:49 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 16:29:49 INFO  tests.TestCheck - Cart modal displayed
+2026-03-22 16:29:49 INFO  base.BaseTest - Closing browser
+2026-03-22 16:30:01 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:30:01 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:30:01 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:30:02 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:30:02 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:30:03 INFO  tests.TestCheck - Test started
+2026-03-22 16:30:03 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:30:03 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 16:30:06 INFO  tests.TestCheck - Search completed
+2026-03-22 16:30:06 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:30:06 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:30:06 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:30:07 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-22 16:30:07 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:30:11 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:30:11 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 16:30:12 INFO  tests.TestCheck - Cart modal displayed
+2026-03-22 16:30:12 INFO  base.BaseTest - Closing browser
+2026-03-22 16:32:52 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:32:52 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:32:52 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:32:52 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:32:53 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:32:55 INFO  tests.TestCheck - Test started
+2026-03-22 16:32:55 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:32:55 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 16:32:57 INFO  tests.TestCheck - Search completed
+2026-03-22 16:32:57 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:32:57 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:32:57 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:32:58 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 16:32:58 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:33:00 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:33:00 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 16:33:01 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 16:33:01 INFO  base.BaseTest - Closing browser
+2026-03-22 16:36:34 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:36:34 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:36:34 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:36:34 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:36:35 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:36:37 INFO  tests.TestCheck - Test started
+2026-03-22 16:36:37 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:36:37 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 16:36:39 INFO  tests.TestCheck - Search completed
+2026-03-22 16:36:39 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:36:39 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:36:39 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:36:40 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 16:36:40 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:36:41 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:36:41 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 16:36:42 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 16:36:42 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 16:41:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:41:36 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:41:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:41:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:41:38 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:41:39 INFO  tests.TestCheck - Test started
+2026-03-22 16:41:39 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:41:39 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 16:41:41 INFO  tests.TestCheck - Search completed
+2026-03-22 16:41:41 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:41:41 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:41:41 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:41:42 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 16:41:42 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:41:43 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:41:43 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 16:41:44 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 16:41:44 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 16:43:21 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:43:21 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:43:21 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:43:21 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:43:22 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:43:25 INFO  tests.TestCheck - Test started
+2026-03-22 16:43:25 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:43:25 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 16:43:26 INFO  tests.TestCheck - Search completed
+2026-03-22 16:43:26 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:43:26 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:43:27 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:43:28 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-22 16:43:28 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:43:29 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:43:29 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 16:43:30 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 16:43:30 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 16:43:30 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 16:55:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:55:39 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:55:40 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:55:40 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:55:40 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 16:55:42 INFO  tests.TestCheck - Test started
+2026-03-22 16:55:42 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 16:55:42 INFO  tests.TestCheck - AI Generated product: office chair
+2026-03-22 16:55:43 INFO  tests.TestCheck - Search completed
+2026-03-22 16:55:43 INFO  tests.TestCheck - Search results loaded
+2026-03-22 16:55:43 INFO  tests.TestCheck - Search results validated
+2026-03-22 16:55:43 INFO  tests.TestCheck - Product clicked
+2026-03-22 16:55:45 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/gifts-island-6-seater-velvet/6917529650409887343#bcrumbSearch:office%20chair
+2026-03-22 16:55:45 INFO  tests.TestCheck - Product page validated
+2026-03-22 16:55:46 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 16:55:46 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 16:55:47 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 16:55:47 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 16:55:47 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 16:59:57 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 16:59:57 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 16:59:57 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 16:59:57 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 16:59:58 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 17:00:00 INFO  tests.TestCheck - Test started
+2026-03-22 17:00:00 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 17:00:00 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 17:00:02 INFO  tests.TestCheck - Search completed
+2026-03-22 17:00:02 INFO  tests.TestCheck - Search results loaded
+2026-03-22 17:00:02 INFO  tests.TestCheck - Search results validated
+2026-03-22 17:00:02 INFO  tests.TestCheck - Product clicked
+2026-03-22 17:00:03 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-22 17:00:03 INFO  tests.TestCheck - Product page validated
+2026-03-22 17:00:05 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 17:00:05 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 17:00:05 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 17:00:05 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 17:00:05 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 17:04:50 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 17:04:50 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 17:04:50 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 17:04:50 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 17:04:51 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 17:04:52 INFO  tests.TestCheck - Test started
+2026-03-22 17:04:52 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 17:04:52 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 17:04:54 INFO  tests.TestCheck - Search completed
+2026-03-22 17:04:54 INFO  tests.TestCheck - Search results loaded
+2026-03-22 17:04:54 INFO  tests.TestCheck - Search results validated
+2026-03-22 17:04:54 INFO  tests.TestCheck - Product clicked
+2026-03-22 17:04:56 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-22 17:04:56 INFO  tests.TestCheck - Product page validated
+2026-03-22 17:04:57 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 17:04:57 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 17:04:58 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 17:04:58 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 17:04:58 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 17:16:26 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 17:16:26 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 17:16:27 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 17:16:27 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 17:16:28 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 17:16:28 INFO  tests.TestCheck - Test started
+2026-03-22 17:16:28 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 17:16:28 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 17:16:30 INFO  tests.TestCheck - Search completed
+2026-03-22 17:16:30 INFO  tests.TestCheck - Search results loaded
+2026-03-22 17:16:30 INFO  tests.TestCheck - Search results validated
+2026-03-22 17:16:30 INFO  tests.TestCheck - Product clicked
+2026-03-22 17:16:31 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/m19-tws-earbuds-true-wireless/619021244130#bcrumbSearch:wireless%20headphones
+2026-03-22 17:16:31 INFO  tests.TestCheck - Product page validated
+2026-03-22 17:16:33 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 17:16:33 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 17:16:33 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 17:16:33 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 17:16:33 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 17:20:13 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 17:20:13 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 17:20:13 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 17:20:13 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 17:20:14 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 17:20:15 INFO  tests.TestCheck - Test started
+2026-03-22 17:20:15 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 17:20:15 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 17:20:17 INFO  tests.TestCheck - Search completed
+2026-03-22 17:20:17 INFO  tests.TestCheck - Search results loaded
+2026-03-22 17:20:17 INFO  tests.TestCheck - Search results validated
+2026-03-22 17:20:17 INFO  tests.TestCheck - Product clicked
+2026-03-22 17:20:18 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 17:20:18 INFO  tests.TestCheck - Product page validated
+2026-03-22 17:20:20 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 17:20:20 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 17:20:20 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 17:20:20 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 17:20:20 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 17:20:35 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 17:20:35 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 17:20:35 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 17:20:35 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 17:20:36 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 17:20:38 INFO  tests.TestCheck - Test started
+2026-03-22 17:20:38 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 17:20:38 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 17:20:40 INFO  tests.TestCheck - Search completed
+2026-03-22 17:20:40 INFO  tests.TestCheck - Search results loaded
+2026-03-22 17:20:40 INFO  tests.TestCheck - Search results validated
+2026-03-22 17:20:40 INFO  tests.TestCheck - Product clicked
+2026-03-22 17:20:41 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 17:20:41 INFO  tests.TestCheck - Product page validated
+2026-03-22 17:20:42 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 17:20:42 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 17:20:43 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 17:20:43 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 17:20:43 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 17:22:00 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 17:22:00 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 17:22:00 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 17:22:00 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 17:22:01 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 17:22:04 INFO  tests.TestCheck - Test started
+2026-03-22 17:22:04 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 17:22:04 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 17:22:05 INFO  tests.TestCheck - Search completed
+2026-03-22 17:22:05 INFO  tests.TestCheck - Search results loaded
+2026-03-22 17:22:05 INFO  tests.TestCheck - Search results validated
+2026-03-22 17:22:05 INFO  tests.TestCheck - Product clicked
+2026-03-22 17:22:07 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 17:22:07 INFO  tests.TestCheck - Product page validated
+2026-03-22 17:22:08 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 17:22:08 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 17:22:09 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 17:22:09 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 17:22:09 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 17:29:25 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 17:29:25 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 17:29:26 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 17:29:26 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 17:29:27 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 17:29:28 INFO  tests.TestCheck - Test started
+2026-03-22 17:29:28 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 17:29:28 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 17:29:30 INFO  tests.TestCheck - Search completed
+2026-03-22 17:29:30 INFO  tests.TestCheck - Search results loaded
+2026-03-22 17:29:30 INFO  tests.TestCheck - Search results validated
+2026-03-22 17:29:30 INFO  tests.TestCheck - Product clicked
+2026-03-22 17:29:32 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/neo-true-wireless-bluetooth-headphone/655967385506#bcrumbSearch:wireless%20headphones
+2026-03-22 17:29:32 INFO  tests.TestCheck - Product page validated
+2026-03-22 17:29:33 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 17:29:33 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 17:29:33 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 17:29:33 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 17:29:33 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 17:34:48 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 17:34:48 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 17:34:49 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 17:34:49 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 17:34:50 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 17:34:51 INFO  tests.TestCheck - Test started
+2026-03-22 17:34:51 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 17:34:51 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 17:34:53 INFO  tests.TestCheck - Search completed
+2026-03-22 17:34:53 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 18:01:47 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 18:01:47 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 18:01:48 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 18:01:48 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 18:01:49 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 18:01:51 INFO  tests.TestCheck - Test started
+2026-03-22 18:01:51 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 18:01:51 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 18:01:52 INFO  tests.TestCheck - Search completed
+2026-03-22 18:01:52 INFO  tests.TestCheck - Search results loaded
+2026-03-22 18:01:52 INFO  tests.TestCheck - Search results validated
+2026-03-22 18:01:52 INFO  tests.TestCheck - Product clicked
+2026-03-22 18:01:53 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/neo-true-wireless-bluetooth-headphone/655967385506#bcrumbSearch:wireless%20headphones
+2026-03-22 18:01:53 INFO  tests.TestCheck - Product page validated
+2026-03-22 18:01:54 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 18:01:54 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 18:01:55 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 18:01:55 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 18:01:55 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 18:17:53 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 18:17:53 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 18:17:53 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 18:17:53 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 18:17:54 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 18:17:55 INFO  tests.TestCheck - Test started
+2026-03-22 18:17:55 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 18:17:55 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 18:18:00 INFO  tests.TestCheck - Search completed
+2026-03-22 18:18:00 INFO  tests.TestCheck - Search results loaded
+2026-03-22 18:18:00 INFO  tests.TestCheck - Search results validated
+2026-03-22 18:18:01 INFO  tests.TestCheck - Product clicked
+2026-03-22 18:18:02 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/neo-true-wireless-bluetooth-headphone/655967385506#bcrumbSearch:wireless%20headphones
+2026-03-22 18:18:02 INFO  tests.TestCheck - Product page validated
+2026-03-22 18:18:03 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 18:18:03 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 18:18:04 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 18:18:04 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 18:18:04 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:05:00 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:05:00 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:05:01 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:05:01 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:05:02 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:05:03 INFO  tests.TestCheck - Test started
+2026-03-22 19:05:03 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:05:03 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 19:05:05 INFO  tests.TestCheck - Search completed
+2026-03-22 19:05:05 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:05:05 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:05:05 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:05:06 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 19:05:06 INFO  tests.TestCheck - Product page validated
+2026-03-22 19:05:08 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 19:05:08 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 19:05:08 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 19:05:08 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 19:05:08 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:05:13 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:05:13 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:05:14 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:05:14 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:05:15 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:05:18 INFO  tests.TestCheck - Test started
+2026-03-22 19:05:18 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:05:18 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 19:05:20 INFO  tests.TestCheck - Search completed
+2026-03-22 19:05:21 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:05:21 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:05:21 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:05:22 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/neo-true-wireless-bluetooth-headphone/655967385506#bcrumbSearch:wireless%20headphones
+2026-03-22 19:05:22 INFO  tests.TestCheck - Product page validated
+2026-03-22 19:05:24 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 19:05:29 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 19:05:47 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 19:05:47 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 19:05:47 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:05:53 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:05:53 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:05:54 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:05:54 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:05:55 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:05:56 INFO  tests.TestCheck - Test started
+2026-03-22 19:05:56 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:05:56 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 19:05:58 INFO  tests.TestCheck - Search completed
+2026-03-22 19:05:58 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:05:58 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:05:58 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:06:00 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-22 19:06:00 INFO  tests.TestCheck - Product page validated
+2026-03-22 19:06:01 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 19:06:01 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 19:06:02 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 19:06:02 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 19:06:02 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:37:08 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:37:08 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:37:08 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:37:08 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:37:09 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:37:12 INFO  tests.TestCheck - Test started
+2026-03-22 19:37:12 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:37:12 INFO  tests.TestCheck - AI Generated product: office chair
+2026-03-22 19:37:14 INFO  tests.TestCheck - Search completed
+2026-03-22 19:37:14 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:37:14 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:37:14 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:37:16 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/urbanarts-4-seater-polyester-chair/629821137488#bcrumbSearch:office%20chair
+2026-03-22 19:37:16 INFO  tests.TestCheck - Product page validated
+2026-03-22 19:37:17 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 19:37:17 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 19:37:18 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 19:37:18 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 19:37:18 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:37:43 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:37:43 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:37:43 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:37:43 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:37:44 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:37:46 INFO  tests.TestCheck - Test started
+2026-03-22 19:37:46 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:37:46 INFO  tests.TestCheck - AI Generated product: office chair
+2026-03-22 19:37:48 INFO  tests.TestCheck - Search completed
+2026-03-22 19:37:48 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:40:17 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:40:17 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:40:18 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:40:18 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:40:19 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:40:21 INFO  tests.TestCheck - Test started
+2026-03-22 19:40:21 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:40:21 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 19:40:22 INFO  tests.TestCheck - Search completed
+2026-03-22 19:40:22 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:41:19 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:41:19 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:41:20 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:41:20 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:41:21 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:41:22 INFO  tests.TestCheck - Test started
+2026-03-22 19:41:22 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:41:22 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:41:47 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:41:47 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:41:48 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:41:48 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:41:49 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:41:50 INFO  tests.TestCheck - Test started
+2026-03-22 19:41:50 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:41:50 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 19:41:52 INFO  tests.TestCheck - Search completed
+2026-03-22 19:41:52 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:41:52 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:41:52 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:41:53 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-22 19:41:53 INFO  tests.TestCheck - Product page validated
+2026-03-22 19:41:55 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 19:41:55 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 19:41:56 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 19:41:56 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 19:41:56 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:43:35 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:43:35 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:43:35 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:43:35 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:43:37 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:43:38 INFO  tests.TestCheck - Test started
+2026-03-22 19:43:38 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:43:38 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 19:43:40 INFO  tests.TestCheck - Search completed
+2026-03-22 19:43:40 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:43:40 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:43:40 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:43:42 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 19:43:42 INFO  tests.TestCheck - Product page validated
+2026-03-22 19:43:43 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 19:43:43 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 19:43:44 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 19:43:44 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 19:43:44 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:44:43 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:44:43 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:44:43 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:44:44 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:44:45 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:44:46 INFO  tests.TestCheck - Test started
+2026-03-22 19:44:46 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:44:46 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 19:44:48 INFO  tests.TestCheck - Search completed
+2026-03-22 19:44:48 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:44:48 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:44:48 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:44:49 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 19:44:49 INFO  tests.TestCheck - Product page validated
+2026-03-22 19:44:51 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 19:44:51 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 19:44:52 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 19:44:52 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 19:44:52 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:45:23 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:45:23 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:45:24 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:45:24 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:45:25 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:45:26 INFO  tests.TestCheck - Test started
+2026-03-22 19:45:26 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:45:26 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 19:45:28 INFO  tests.TestCheck - Search completed
+2026-03-22 19:45:28 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:45:28 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:45:28 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:45:57 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:45:57 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:45:57 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:45:57 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:45:58 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:45:59 INFO  tests.TestCheck - Test started
+2026-03-22 19:45:59 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:45:59 INFO  tests.TestCheck - AI Generated product: running shoes
+2026-03-22 19:46:01 INFO  tests.TestCheck - Search completed
+2026-03-22 19:46:01 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:46:01 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:46:01 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:46:03 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/campus-dreamplex-black-running-shoes/5764608179826848385#bcrumbSearch:running%20shoes
+2026-03-22 19:46:03 INFO  tests.TestCheck - Product page validated
+2026-03-22 19:46:05 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 19:46:05 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 19:46:05 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 19:46:05 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 19:46:05 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:46:52 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:46:52 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:46:52 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:46:52 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:46:53 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:46:53 INFO  tests.TestCheck - Test started
+2026-03-22 19:46:53 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:46:53 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 19:46:55 INFO  tests.TestCheck - Search completed
+2026-03-22 19:46:55 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:46:55 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:46:55 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:46:56 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:47:18 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:47:18 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:47:18 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:47:18 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:47:19 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:47:21 INFO  tests.TestCheck - Test started
+2026-03-22 19:47:21 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:47:21 INFO  tests.TestCheck - AI Generated product: gaming laptop
+2026-03-22 19:47:22 INFO  tests.TestCheck - Search completed
+2026-03-22 19:47:22 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:47:22 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:47:23 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:47:24 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/captain-america-carter-deliver-us/648350521640#bcrumbSearch:gaming%20laptop
+2026-03-22 19:47:24 INFO  tests.TestCheck - Product page validated
+2026-03-22 19:47:25 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 19:47:25 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 19:47:26 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 19:47:26 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 19:47:26 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:47:44 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:47:44 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:47:44 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:47:44 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:47:45 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:47:47 INFO  tests.TestCheck - Test started
+2026-03-22 19:47:47 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:47:47 INFO  tests.TestCheck - AI Generated product: office chair
+2026-03-22 19:47:49 INFO  tests.TestCheck - Search completed
+2026-03-22 19:47:49 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:47:49 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:47:49 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:47:51 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/urbanarts-4-seater-polyester-chair/629821137488#bcrumbSearch:office%20chair
+2026-03-22 19:47:51 INFO  tests.TestCheck - Product page validated
+2026-03-22 19:47:52 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 19:47:52 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:48:28 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:48:28 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:48:29 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:48:29 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:48:30 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:48:31 INFO  tests.TestCheck - Test started
+2026-03-22 19:48:31 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:48:31 INFO  tests.TestCheck - AI Generated product: office chair
+2026-03-22 19:48:33 INFO  tests.TestCheck - Search completed
+2026-03-22 19:48:33 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:48:33 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:48:33 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:48:35 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/urbanarts-4-seater-polyester-chair/629821137488#bcrumbSearch:office%20chair
+2026-03-22 19:48:35 INFO  tests.TestCheck - Product page validated
+2026-03-22 19:48:35 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:49:04 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:49:04 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:49:04 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:49:04 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:49:06 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:49:07 INFO  tests.TestCheck - Test started
+2026-03-22 19:49:07 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:49:07 INFO  tests.TestCheck - AI Generated product: wireless headphones
+2026-03-22 19:49:09 INFO  tests.TestCheck - Search completed
+2026-03-22 19:49:09 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:49:09 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:49:09 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:49:10 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/neo-true-wireless-bluetooth-headphone/655967385506#bcrumbSearch:wireless%20headphones
+2026-03-22 19:49:10 INFO  tests.TestCheck - Product page validated
+2026-03-22 19:49:12 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 19:49:12 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 19:49:12 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 19:49:12 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 19:49:13 INFO  base.BaseTest - Browser left open for debugging
+2026-03-22 19:49:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Varshan\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+
+2026-03-22 19:49:36 INFO  base.BaseTest - Initializing WebDriver
+2026-03-22 19:49:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.153 (resolved driver for Chrome 146)
+2026-03-22 19:49:37 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Varshan\.cache\selenium\chromedriver\win64\146.0.7680.153\chromedriver.exe
+2026-03-22 19:49:38 INFO  base.BaseTest - Launching application: https://www.snapdeal.com/
+2026-03-22 19:49:39 INFO  tests.TestCheck - Test started
+2026-03-22 19:49:39 INFO  tests.TestCheck - AI-driven test data selection initiated
+2026-03-22 19:49:39 INFO  tests.TestCheck - AI Generated product: smart watch
+2026-03-22 19:49:40 INFO  tests.TestCheck - Search completed
+2026-03-22 19:49:40 INFO  tests.TestCheck - Search results loaded
+2026-03-22 19:49:40 INFO  tests.TestCheck - Search results validated
+2026-03-22 19:49:40 INFO  tests.TestCheck - Product clicked
+2026-03-22 19:49:42 INFO  tests.TestCheck - Switched to product tab: https://www.snapdeal.com/product/life-like-ultra-max-smart/635219384597#bcrumbSearch:smart%20watch
+2026-03-22 19:49:42 INFO  tests.TestCheck - Product page validated
+2026-03-22 19:49:43 INFO  tests.TestCheck - Add to cart clicked
+2026-03-22 19:49:43 INFO  tests.TestCheck - View Cart clicked
+2026-03-22 19:49:44 INFO  tests.TestCheck - Cart contains items: 1
+2026-03-22 19:49:44 INFO  tests.TestCheck - Cart fully displayed
+2026-03-22 19:49:44 INFO  base.BaseTest - Browser left open for debugging
